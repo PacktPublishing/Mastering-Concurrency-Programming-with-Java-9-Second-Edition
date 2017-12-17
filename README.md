@@ -31,6 +31,3 @@ To follow this book, you need basic to medium-level knowledge of the Java progra
 * [Neural Network Programming with Java - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/neural-network-programming-java-second-edition?utm_source=GitHub)
 
 * [Java 9 with JShell](https://www.packtpub.com/application-development/java-9-jshell?utm_source=GitHub)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.

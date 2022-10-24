@@ -31,3 +31,7 @@ To follow this book, you need basic to medium-level knowledge of the Java progra
 * [Neural Network Programming with Java - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/neural-network-programming-java-second-edition?utm_source=GitHub)
 
 * [Java 9 with JShell](https://www.packtpub.com/application-development/java-9-jshell?utm_source=GitHub)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781785887949">https://packt.link/free-ebook/9781785887949 </a> </p>
